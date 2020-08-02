@@ -27,7 +27,7 @@ gem 'jbuilder', '~> 2.7'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
-
+gem 'pry', '~> 0.12.2'
 # elastic search gem
 gem 'elasticsearch-model'
 gem 'elasticsearch-rails'
